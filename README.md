@@ -117,13 +117,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilupul6&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages">
 </p>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
 
 ## 🏆 Github Trophies:
 <div align="center" >
@@ -131,6 +124,14 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nilupul6&theme=monokai)](https://github.com/Nilupul6/github-profile-trophy)
 
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Sachi12288/Sachi12288/output/snake.svg" alt="Snake animation" />
+
+###
 
 
   
