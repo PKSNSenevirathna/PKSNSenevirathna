@@ -125,13 +125,7 @@
 
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Sachi12288/Sachi12288/output/snake.svg" alt="Snake animation" />
-
-###
 
 
   
