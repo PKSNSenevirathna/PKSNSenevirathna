@@ -1,15 +1,15 @@
 <div align="center">
-  <h1>👋 Hi, I'm GVN NILUPUL</h1>
+  <h1>👋 Hi, I'm Sachintha Nishara</h1>
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Hello GIF">
 </div>
 
 <p align="center">
-  <em>Undergraduate👨‍🎓 | Developer🛠 | Gamer💻</em>
+  <em>Undergraduate👨‍🎓 | Developer🛠</em>
 </p>
 
 <div align="center">
   <h2>Welcome to My GitHub Repository!</h2>
-  <p>I'm Nilupul, a passionate undergraduate software engineer based in Sri Lanka. This repository showcases my projects, skills, and contributions to the world of software development.</p>
+  <p>I'm Sachintha, a passionate undergraduate software engineer based in Sri Lanka. This repository showcases my projects, skills, and contributions to the world of software development.</p>
 </div>
 
 ---
@@ -17,7 +17,7 @@
 ## ♻ About Me:
 
 - 🌍 Based in Sri Lanka
-- ✉️ Contact: [rainforest12344321@gmail.com](mailto:rainforest12344321@gmail.com)
+- ✉️ Contact: [nishara12288@gmail.com](mailto:nishara12288@gmail.com)
 - 🎓 Studying at South Eastern University of Sri Lanka
 - ⚡ Working hard on my degree
 
@@ -124,23 +124,7 @@
 
 </div
   
-<!-- 📜 Other Section -->
-## 📜 Other:
-
-<div align="center" >
-  Connect with me on Discord and see what I'm up to! 🎮 <br>
-  <a href="https://discord.com/users/1107917072337481779" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/1107917072337481779" alt="Discord Presence">
-  </a>
-</div>
 
 
-<!-- 🎶 Vibing to Section -->
-## 🎶 Vibing to:
 
-<p align="center">
-  Currently enjoying some tunes on Spotify. 🎧<br>
-  <a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=315gwhrmwykd57g5njca7cbh3p6y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" alt="Spotify Status">
-  </a>
-</p>
+
