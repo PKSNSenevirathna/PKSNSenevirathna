@@ -122,7 +122,15 @@
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nilupul6&theme=monokai)](https://github.com/Nilupul6/github-profile-trophy)
 
-</div
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
   
 
 
